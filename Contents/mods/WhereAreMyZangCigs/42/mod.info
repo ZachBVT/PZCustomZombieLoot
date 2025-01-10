@@ -1,0 +1,8 @@
+author=Skittles
+name=Where Are My Zang Cigs
+id=SKITTLE_WhereAreMyZangCigs
+poster=poster.png
+icon=icon.png
+description=Increases cigarette spawn chances, and adds more cigarette spawns to sensible lootables. Characters with smoker trait will spawn with cigarettes and a lighter (B42)
+modversion=1.1
+category=QoL
